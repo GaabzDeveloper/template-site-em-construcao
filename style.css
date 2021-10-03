@@ -9,7 +9,7 @@
 		width: 100%;
 		min-height: 100vh;
 		position: absolute !important;
-		background: radial-gradient(rgb(118, 46, 219), rgb(188, 155, 235));
+		background: radial-gradient(rgb(164, 110, 240), rgb(118, 46, 219));
 }
 
 .main__logo{

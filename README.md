@@ -1,2 +1,4 @@
 # pagina-em-desenvolvimento-senibra
-Neste repositório tem um site de página em desenvolvimento para a empresa Senibra do Brasil.
+Neste repositório você irá encontrar um template de site em contrução totalmente responsivo!
+
+FOI UTILIZADO HTML5 E CSS3.
